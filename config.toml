@@ -2,13 +2,13 @@ baseURL = "https://blog.hotseat.io/"
 languageCode = "en-us"
 title = "The Hotblog"
 
-[socials]
-website = "https://hotseat.io"
-facebook = "https://www.facebook.com/hotseatio/"
-instagram = "#"
-twitter = "https://twitter.com/hotseatio"
-github = "https://github.com/hotseatio/"
-rss = "#"
+[Params]
+Website = "https://hotseat.io"
+Facebook = "https://www.facebook.com/hotseatio/"
+Instagram = "#"
+Twitter = "https://twitter.com/hotseatio"
+Github = "https://github.com/hotseatio/"
+Rss = "#"
 
 
 
