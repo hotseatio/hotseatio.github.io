@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.table-of-contents {
+  @apply text-sm;
+  @apply mb-4;
+  @apply text-gray-700 dark:text-gray-200;
+
+  li,
+  p {
+    @apply my-1;
+  }
+  ul {
+    @apply my-0;
+  }
+
+  li > ul {
+    @apply ml-6;
+  }
+}

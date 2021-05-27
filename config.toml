@@ -1,4 +1,23 @@
-baseURL = "https://blog.hotseat.io"
+baseURL = "https://blog.hotseat.io/"
 languageCode = "en-us"
-title = "Hotseat Blog"
-theme = "harbor"
+title = "The Hotblog"
+
+[socials]
+website = "https://hotseat.io"
+facebook = "https://www.facebook.com/hotseatio/"
+instagram = "#"
+twitter = "https://twitter.com/hotseatio"
+github = "https://github.com/hotseatio/"
+rss = "#"
+
+
+
+[params]
+hideMadeWithLine = true
+
+[markup]
+  [markup.highlight]
+    lineNos = false
+    style = "monokai"
+    tabWidth = 2
+    noClasses = false
