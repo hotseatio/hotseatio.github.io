@@ -1,10 +1,10 @@
 ---
-title: "Announcing Hotseat!"
+title: Announcing Hotseat!
+author: Nathan Smith
 date: 2021-02-25T09:15:17-08:00
-draft: true
 ---
 
-We're super excited to announce that Hotseat has been released.
+We're super excited to announce Hotseat, the best way to enroll in classes at UCLA.
 
 ## Why Hotseat?
 
