@@ -1,7 +1,7 @@
 ---
 title: Announcing Hotseat!
+date: 2021-02-25
 author: Nathan Smith
-date: 2021-02-25T09:15:17-08:00
 ---
 
 We're super excited to announce Hotseat, the best way to enroll in classes at UCLA.
