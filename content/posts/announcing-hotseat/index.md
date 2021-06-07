@@ -12,7 +12,7 @@ Hotseat is the newest course enrollment platform. We aggregate course informatio
 
 ## Who Are We?
 
-Hi, we're [Nathan](https://nathansmith.io/) and [Timothy](https://github.com/TimothyGu), both UCLA Computer Science majors. For years, we've had trouble enrolling in the classes we want. As underclassmen, popular classes often fill up before our turn, forcing us to quickly find alternatives. In other cases, we inadvertently “wasted” our first pass on a class that isn't too popular after all. This frustration turned into a desire for more information to inform our class planning.
+We're [Nathan](https://nathansmith.io/) and [Timothy](https://github.com/TimothyGu), both UCLA Computer Science majors. For years, we've had trouble enrolling in the classes we want. As underclassmen, popular classes often fill up before our turn, forcing us to quickly find alternatives. In other cases, we inadvertently “wasted” our first pass on a class that isn't too popular after all. This frustration turned into a desire for more information to inform our class planning.
 
 ## How is Hotseat different from…?
 
