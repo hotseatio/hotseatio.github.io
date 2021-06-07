@@ -1,6 +1,7 @@
 ---
 title: Announcing Hotseat!
 date: 2021-06-07
+author: Nathan Smith
 ---
 
 We're super excited to announce Hotseat, the best way to enroll in classes at UCLA.
@@ -17,21 +18,12 @@ Hi, we're [Nathan](https://nathansmith.io/) and [Timothy](https://github.com/Tim
 
 Hotseat is unique in that we integrate data directly from the UCLA Registrar. Doing so gives us information such as real-time enrollment progress that you can't find anywhere else.
 
-![Hotseat's course page](./course-page.png)
-
 With historic enrollment progress, you know exactly when to expect a class to fill up, and can allocate first-pass and second-pass course enrollment slots accordingly. Along with other information such as instructor reviews, Hotseat puts _you_ in the driver seat for course enrollment.
 
 ## What's Next?
 
-We have a lot more exciting updates coming down the pipeline. Here are a few ideas on our radar:
-
-- Course planner
-- Enrollment notifications
-- Finding study groups
-- Graduation progress
-
-If there's a feature you want to see in Hotseat, let us know at [suggestions@hotseat.io](mailto:suggestions@hotseat.io)!
+We have a lot more exciting updates coming down the pipeline. If there's a feature you want to see in Hotseat, [let us know]().
 
 ## Sign Up Now!
 
-Sign up today, and don't be afraid to start reviewing your favorite (or least favorite) professors while perfecting your schedule for next quarter. Begin your journey now at [hotseat.io](https://hotseat.io/)!
+hotseat.io/signup
