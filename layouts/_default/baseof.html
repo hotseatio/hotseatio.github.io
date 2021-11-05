@@ -1,30 +1,27 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {{- partial "favicon.html" . -}}
+    <title>
+      {{ if (not .IsHome) }}{{ .Title }} | {{ end }} {{ .Site.Title }}
+    </title>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  {{- partial "favicon.html" . -}}
-  <title>{{- block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{- end }}</title>
+    {{- partial "seo_tags.html" . -}}
+    <meta name="referrer" content="no-referrer-when-downgrade" />
 
-  {{- partial "seo_tags.html" . -}}
-  <meta name="referrer" content="no-referrer-when-downgrade" />
+    {{ with .OutputFormats.Get "rss" -}} {{ printf `
+    <link rel="%s" type="%s" href="%s" title="%s" />
+    ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}} {{
+    $main := resources.Get "css/main.css" | resources.PostCSS }}
+    <link rel="stylesheet" href="{{ $main.RelPermalink }}" />
+  </head>
 
-  {{ with .OutputFormats.Get "rss" -}}
-  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-  {{ end -}}
-
-  {{ $main := resources.Get "css/main.css" | resources.PostCSS }}
-  <link rel="stylesheet" href="{{ $main.RelPermalink }}">
-</head>
-
-<body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white">
-  <div class="max-w-2xl mx-auto my-0 p-6 text-lg">
-    {{- partial "header.html" . -}}
-    <main>
-      {{- block "main" . }}{{- end }}
-    </main>
-  </div>
-</body>
-
+  <body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white">
+    <div class="max-w-2xl mx-auto my-0 p-6 text-lg">
+      {{- partial "header.html" . -}}
+      <main>{{- block "main" . }}{{- end }}</main>
+    </div>
+  </body>
 </html>

@@ -1,6 +1,7 @@
 ---
 title: Announcing Hotseat!
 date: 2021-06-07
+author: Team Hotseat
 ---
 
 We're super excited to announce Hotseat, the best way to enroll in classes at UCLA.
