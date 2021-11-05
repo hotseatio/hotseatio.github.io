@@ -1,6 +1,6 @@
 ---
 title: "Hotseat: Back to School Edition"
-date: 2021-10-29
+date: 2021-11-5
 author: Team Hotseat
 ---
 
