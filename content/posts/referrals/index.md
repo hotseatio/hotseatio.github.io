@@ -8,7 +8,9 @@ You can now refer your friends and classmates to Hotseat via a unique link on yo
 
 ![Referral link](./referral-link.png)
 
-As a bonus, we're also running a referral contest! If you refer the most new users to Hotseat by February 1, you'll get a $50 Amazon gift card. The fine print:
+As a bonus, we're also running a referral contest! If you refer the most new users to Hotseat by February 1, you'll get a **$50 Amazon gift card**.
+
+The fine print:
 
 - Hotseat Referral Promotion Contest (the "Contest") is open to legal residents of the fifty (50) United States and the District of Columbia who are at least eighteen (18) years old at the time of entry.
 - The Contest is sponsored by Hotseat Labs, LLC.
