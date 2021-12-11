@@ -4,7 +4,7 @@ date: 2021-12-10
 author: Team Hotseat
 ---
 
-You can now refer your friends and classmates to Hotseat via a unique link on your [settings page](https://hotseat.io/settings)! If they sign up using your link and write a review, then you will both get an extra notification token.
+You can now refer your friends and classmates to Hotseat via a unique link on your [settings page](https://hotseat.io/settings)! If they sign up using your link and write a review, then you will both get two notification tokens!
 
 ![Referral link](./referral-link.png)
 
