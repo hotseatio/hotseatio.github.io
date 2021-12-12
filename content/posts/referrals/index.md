@@ -1,5 +1,5 @@
 ---
-title: "Refer your friends to Hotseat, win big!"
+title: "Refer your friends to Hotseat, win $50!"
 date: 2021-12-10
 author: Team Hotseat
 ---
