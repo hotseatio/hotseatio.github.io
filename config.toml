@@ -1,6 +1,7 @@
 baseURL = "https://blog.hotseat.io/"
 languageCode = "en-us"
 title = "The Hotblog"
+googleAnalytics = "G-TLBJJ8MTGZ"
 
 [Params]
 Website = "https://hotseat.io"

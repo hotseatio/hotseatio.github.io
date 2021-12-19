@@ -16,6 +16,7 @@
     ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}} {{
     $main := resources.Get "css/main.css" | resources.PostCSS }}
     <link rel="stylesheet" href="{{ $main.RelPermalink }}" />
+    {{ template "_internal/google_analytics.html" . }}
   </head>
 
   <body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white">
