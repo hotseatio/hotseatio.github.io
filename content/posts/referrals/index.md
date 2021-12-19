@@ -1,5 +1,5 @@
 ---
-title: "Refer the most friends to Hotseat, win $50!"
+title: "Refer the most friends to Hotseat, win a $50 Amazon gift card!"
 date: 2021-12-12
 author: Team Hotseat
 ---
