@@ -1,6 +1,6 @@
 ---
 title: "A Guide to (Almost) Every UCLA Computer Science Class, Reviewed By Two Alumni"
-date: 2021-12-19
+date: 2022-01-16
 author: Nathan Smith and Tim Gu
 ---
 
@@ -24,11 +24,27 @@ CS 31 does require you to write actual C++ on exams. When we took the class in p
 
 ### 32, Introduction to Computer Science II
 
-### 33,
+_Nathan: x/5 | Tim: 5/5 | [Hotseat](https://hotseat.io/courses/4439)_
 
-### 35L,
+CS 32 is arguably the most important class in the intro series. The course begins in object-oriented programming (i.e., C++ classes), but then pivots to common algorithms and data structures that programmers use every day, like stacks and queues, hash tables, and binary search trees. If you are looking for a software engineering internship (or even a full-time position), this class should be all you need to prepare for coding interviews.
+
+Typically the class is taught by [David Smallberg](https://hotseat.io/courses/4439/instructors/2760) and [Carey Nachenberg](https://hotseat.io/courses/4439/instructors/2734), two of the best instructors in the CS department. Carey posts his slides on his [website](http://careynachenberg.weebly.com/cs-slides.html), and it was an invaluable resource to Tim when he was looking for his first job.
+
+### 33, Introduction to Computer Organization
+
+_Nathan: x/5 | Tim: x/5 | [Hotseat](https://hotseat.io/courses/2894)_
+
+CS 33 is a polarizing class. At first glance, it offers material that isn't directly relevant to software engineering. Unlike 31 and 32 which teach you how to _use_ computers, 33 describes how computers _work_ and _why_ they're designed to work that way. It's not all theoretical though: 33 has some of the best hands-on assignments in the intro curriculum (e.g., one lab teaches you how to hack into running programs 👀).
+
+In our experience through the upper-divs and the industry, concepts in CS 33 like cache coherence and thrashing are recurring themes that show up everywhere in computing. You'll be particularly glad to have 33 under your belt if you eventually move on to CS 111 or 132.
+<!-- maybe also distributed systems? -->
+
+### 35L, Software Construction
+
+_Nathan: x/5 | Tim: x/5 | [Hotseat](https://hotseat.io/courses/375542)_
 
 Our Eggert advice? It'll be tough, but pay attention to every single word that Eggert says and write down meticulous notes. Your notes should be a transcript of every lecture. Take good notes and bring them to the tests, and you'll be fine. Start the assignments the day they're released. Don't bother with discussions, the TAs won't be that prepared and your time is better spent working on the assignments.
+<!-- TODO: studying tips, figuring out how topics connect to other topics -->
 
 ### M51A
 
