@@ -21,6 +21,11 @@ jobs:
           hugo-version: 'latest'
           # extended: true
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+      - name: Install Node.js Dependencies
+        run: npm install
+
       - name: Build
         run: hugo --minify
 
