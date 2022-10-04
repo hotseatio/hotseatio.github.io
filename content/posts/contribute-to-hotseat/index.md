@@ -1,5 +1,5 @@
 ---
-title: 'Contribute to Hotseat!'
+title: 'Work on Hotseat!'
 date: 2022-10-04
 author: Team Hotseat
 ---
