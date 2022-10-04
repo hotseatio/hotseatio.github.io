@@ -1,6 +1,6 @@
 ---
 title: 'Contribute to Hotseat!'
-date: 2021-12-12
+date: 2022-10-04
 author: Team Hotseat
 ---
 
@@ -16,8 +16,8 @@ You'll have the opportunity to work on impactful Hotseat features such as:
 - [Allowing users to upvote/downvote reviews](https://github.com/hotseatio/hotseat.io/issues/2)
 - [Allowing users to set their majors and minors](https://github.com/hotseatio/hotseat.io/issues/3)
 
-No prior technical experience is required and all majors are welcome. We'll teach you the ins and outs of production web development through several training sessions throughout the quarter, plus you'll get specialized mentorship through pair programming sessions with the founders of Hotseat, Nathan and Tim.
+No prior technical experience is required and all majors are welcome. We'll teach you the ins and outs of production web development through several training sessions throughout the quarter, plus you'll get specialized mentorship through pair programming sessions with the founders of Hotseat.
 
-Apply now through DevX.
+Apply now through [DevX](https://www.ucladevx.com/recruitment).
 
-Have questions? Let us know at questions@hotseat.io
+Have questions? Let us know at [questions@hotseat.io](mailto:questions@hotseat.io).
