@@ -11,11 +11,15 @@
     {{- partial "seo_tags.html" . -}}
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
-    {{ with .OutputFormats.Get "rss" -}} {{ printf `
-    <link rel="%s" type="%s" href="%s" title="%s" />
-    ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}} {{
-    $main := resources.Get "css/main.css" | resources.PostCSS }}
-    <link rel="stylesheet" href="{{ $main.RelPermalink }}" />
+    {{ with .OutputFormats.Get "rss" -}}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
+
+    {{ partialCached "css.html" . }}
+    <!-- {{ $main := resources.Get "css/main.css" | resources.PostCSS }} -->
+    <!-- <link rel="stylesheet" href="{{ $main.RelPermalink }}" /> -->
+
     {{ template "_internal/google_analytics.html" . }}
   </head>
 
