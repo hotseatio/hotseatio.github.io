@@ -12,275 +12,178 @@ A common question we get from students is "how likely is it that I'll get off th
 
 The first two weeks of the quarter are open season. You can enroll and drop any courses.
 
-After week two, things start to get a little trickier. You can't drop impacted courses without a petition, fee, and transcript notice. You can drop nonimpacted courses and still enroll in courses, but many departments close their enrollment to all courses after week two.
+After week two, things start to get a little trickier. You can't drop impacted courses without a petition, fee, and transcript notice. You can drop nonimpacted courses and still enroll in courses, but many departments close their enrollment to all corses after week two.
 
-## The data
+Here are the 20 most-dropped courses of weeks one and two for the winter 2022 quarter at UCLA.
 
-Top 15 most dropped courses
+## Top 20 most dropped courses
 
-    [ 0] {
-                  :drop_count => 26,
-                 :start_count => 45,
-        :start_count_waitlist => 9,
-                  :start_time => Mon, 03 Jan 2022 00:26:02.164332000 PST -08:00,
-                   :end_count => 28,
-          :end_count_waitlist => 0,
-                    :end_time => Fri, 14 Jan 2022 17:26:05.706975000 PST -08:00,
-                     :section => 37971541,
-                      :course => "EC ENGR 201D: Design in Nanoscale Technologies",
-                  :instructor => "Puneet Gupta",
-                         :url => "https://hotseat.io/courses/850872/instructors/130"
-    },
-    [ 1] {
-                  :drop_count => 27,
-                 :start_count => 346,
-        :start_count_waitlist => 0,
-                  :start_time => Mon, 03 Jan 2022 11:26:33.472251000 PST -08:00,
-                   :end_count => 319,
-          :end_count_waitlist => 0,
-                    :end_time => Wed, 12 Jan 2022 02:26:51.075397000 PST -08:00,
-                     :section => 37961978,
-                      :course => "LIFESCI 30B: Mathematics for Life Scientists",
-                  :instructor => "Jane Shevtsov",
-                         :url => "https://hotseat.io/courses/2930/instructors/1240991"
-    },
-    [ 2] {
-                  :drop_count => 28,
-                 :start_count => 62,
-        :start_count_waitlist => 39,
-                  :start_time => Mon, 03 Jan 2022 13:26:38.730917000 PST -08:00,
-                   :end_count => 66,
-          :end_count_waitlist => 7,
-                    :end_time => Fri, 14 Jan 2022 21:26:04.832855000 PST -08:00,
-                     :section => 37976041,
-                      :course => "COM SCI 238: Quantum Programming",
-                  :instructor => "Jens Palsberg",
-                         :url => "https://hotseat.io/courses/1636071/instructors/1103386"
-    },
-    [ 3] {
-                  :drop_count => 28,
-                 :start_count => 200,
-        :start_count_waitlist => 47,
-                  :start_time => Mon, 03 Jan 2022 04:28:49.705849000 PST -08:00,
-                   :end_count => 200,
-          :end_count_waitlist => 19,
-                    :end_time => Fri, 14 Jan 2022 23:26:39.362712000 PST -08:00,
-                     :section => 37961543,
-                      :course => "LING 20: Introduction to Linguistic Analysis",
-                  :instructor => "Claire Moore-Cantwell",
-                         :url => "https://hotseat.io/courses/1882/instructors/82119"
-    },
-    [ 4] {
-                  :drop_count => 28,
-                 :start_count => 300,
-        :start_count_waitlist => 59,
-                  :start_time => Mon, 03 Jan 2022 11:27:33.850462000 PST -08:00,
-                   :end_count => 300,
-          :end_count_waitlist => 31,
-                    :end_time => Fri, 14 Jan 2022 23:26:15.919999000 PST -08:00,
-                     :section => 37959021,
-                      :course => "SOCIOL 111: Social Networks",
-                  :instructor => "Omar Lizardo",
-                         :url => "https://hotseat.io/courses/7067/instructors/1104677"
-    },
-    [ 5] {
-                  :drop_count => 29,
-                 :start_count => 178,
-        :start_count_waitlist => 0,
-                  :start_time => Mon, 03 Jan 2022 01:25:42.823663000 PST -08:00,
-                   :end_count => 149,
-          :end_count_waitlist => 0,
-                    :end_time => Fri, 14 Jan 2022 23:26:22.879252000 PST -08:00,
-                     :section => 37966681,
-                      :course => "PHYSICS 5B: Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
-                  :instructor => "Justin Lancaster",
-                         :url => "https://hotseat.io/courses/3639/instructors/1105304"
-    },
-    [ 6] {
-                  :drop_count => 30,
-                 :start_count => 225,
-        :start_count_waitlist => 33,
-                  :start_time => Mon, 03 Jan 2022 12:26:44.061981000 PST -08:00,
-                   :end_count => 225,
-          :end_count_waitlist => 3,
-                    :end_time => Fri, 14 Jan 2022 11:26:44.868640000 PST -08:00,
-                     :section => 37970255,
-                      :course => "JAPAN 80: How Does It Move? Action and Moving Image in Modern Japan",
-                  :instructor => "Junko Yamazaki",
-                         :url => "https://hotseat.io/courses/849054/instructors/45158"
-    },
-    [ 7] {
-                  :drop_count => 30,
-                 :start_count => 189,
-        :start_count_waitlist => 49,
-                  :start_time => Mon, 03 Jan 2022 03:26:37.914632000 PST -08:00,
-                   :end_count => 191,
-          :end_count_waitlist => 17,
-                    :end_time => Fri, 14 Jan 2022 23:26:58.146523000 PST -08:00,
-                     :section => 37959835,
-                      :course => "AN N EA 15W: Women and Power in Ancient World",
-                  :instructor => "Kathlyn M. Cooney and Jordan Galczynski",
-                         :url => "https://hotseat.io/courses/6662/instructors/1245917"
-    },
-    [ 8] {
-                  :drop_count => 30,
-                 :start_count => 120,
-        :start_count_waitlist => 29,
-                  :start_time => Tue, 04 Jan 2022 12:25:53.169095000 PST -08:00,
-                   :end_count => 119,
-          :end_count_waitlist => 0,
-                    :end_time => Fri, 14 Jan 2022 12:25:47.293346000 PST -08:00,
-                     :section => 37966770,
-                      :course => "ASIA AM 20W: Contemporary Asian American Communities",
-                  :instructor => "Lily Anne Welty",
-                         :url => "https://hotseat.io/courses/5651/instructors/1142933"
-    },
-    [ 9] {
-                  :drop_count => 31,
-                 :start_count => 82,
-        :start_count_waitlist => 14,
-                  :start_time => Mon, 03 Jan 2022 10:25:29.863396000 PST -08:00,
-                   :end_count => 65,
-          :end_count_waitlist => 0,
-                    :end_time => Fri, 14 Jan 2022 22:25:31.174945000 PST -08:00,
-                     :section => 37975732,
-                      :course => "EC ENGR 239AS: Special Topics in Signals and Systems: Lecture 1  ",
-                  :instructor => "Achuta Kadambi",
-                         :url => "https://hotseat.io/courses/376403/instructors/71272"
-    },
-    [10] {
-                  :drop_count => 32,
-                 :start_count => 178,
-        :start_count_waitlist => 0,
-                  :start_time => Mon, 03 Jan 2022 01:25:33.502993000 PST -08:00,
-                   :end_count => 146,
-          :end_count_waitlist => 0,
-                    :end_time => Fri, 14 Jan 2022 23:25:39.114391000 PST -08:00,
-                     :section => 37971179,
-                      :course => "ETHNMUS M108A: Music of Latin America: Mexico, Central America, and Caribbean Isles",
-                  :instructor => "David Fernando Castaneda Jr.",
-                         :url => "https://hotseat.io/courses/376984/instructors/1101486"
-    },
-    [11] {
-                  :drop_count => 33,
-                 :start_count => 500,
-        :start_count_waitlist => 99,
-                  :start_time => Tue, 04 Jan 2022 15:26:46.188028000 PST -08:00,
-                   :end_count => 500,
-          :end_count_waitlist => 66,
-                    :end_time => Fri, 14 Jan 2022 23:26:21.842620000 PST -08:00,
-                     :section => 37961828,
-                      :course => "LING 1: Introduction to Study of Language",
-                  :instructor => "Giuseppina Silvestri",
-                         :url => "https://hotseat.io/courses/1919/instructors/1100778"
-    },
-    [12] {
-                  :drop_count => 33,
-                 :start_count => 300,
-        :start_count_waitlist => 58,
-                  :start_time => Mon, 03 Jan 2022 12:25:38.598881000 PST -08:00,
-                   :end_count => 300,
-          :end_count_waitlist => 25,
-                    :end_time => Fri, 14 Jan 2022 21:25:45.123206000 PST -08:00,
-                     :section => 37958945,
-                      :course => "SOCIOL 1: Introductory Sociology",
-                  :instructor => "Terri Anderson",
-                         :url => "https://hotseat.io/courses/2446/instructors/1043"
-    },
-    [13] {
-                  :drop_count => 34,
-                 :start_count => 300,
-        :start_count_waitlist => 58,
-                  :start_time => Mon, 03 Jan 2022 00:25:46.399033000 PST -08:00,
-                   :end_count => 300,
-          :end_count_waitlist => 24,
-                    :end_time => Fri, 14 Jan 2022 23:25:55.154040000 PST -08:00,
-                     :section => 37970091,
-                      :course => "PHILOS 7: Introduction to Philosophy of Mind",
-                  :instructor => "Gloria Andrada De Gregorio",
-                         :url => "https://hotseat.io/courses/48/instructors/1102971"
-    },
-    [14] {
-                  :drop_count => 36,
-                 :start_count => 200,
-        :start_count_waitlist => 38,
-                  :start_time => Mon, 03 Jan 2022 09:25:35.844865000 PST -08:00,
-                   :end_count => 200,
-          :end_count_waitlist => 2,
-                    :end_time => Fri, 14 Jan 2022 23:25:40.320032000 PST -08:00,
-                     :section => 37968779,
-                      :course => "CHIN 50: Chinese Civilization",
-                  :instructor => "Minchen Li",
-                         :url => "https://hotseat.io/courses/124/instructors/180"
-    },
-    [15] {
-                  :drop_count => 38,
-                 :start_count => 240,
-        :start_count_waitlist => 15,
-                  :start_time => Mon, 03 Jan 2022 01:25:51.268056000 PST -08:00,
-                   :end_count => 217,
-          :end_count_waitlist => 0,
-                    :end_time => Fri, 14 Jan 2022 23:25:59.588888000 PST -08:00,
-                     :section => 37965823,
-                      :course => "ARCH&UD 10A: History of Architecture and Urban Design: Prehistory to Mannerism",
-                  :instructor => "Rovner, M.A.",
-                         :url => "https://hotseat.io/courses/6594/instructors/1103391"
-    },
-    [16] {
-                  :drop_count => 39,
-                 :start_count => 306,
-        :start_count_waitlist => 53,
-                  :start_time => Mon, 03 Jan 2022 02:29:16.945362000 PST -08:00,
-                   :end_count => 308,
-          :end_count_waitlist => 12,
-                    :end_time => Fri, 14 Jan 2022 23:26:57.170013000 PST -08:00,
-                     :section => 37958994,
-                      :course => "ANTHRO 3: Culture and Society",
-                  :instructor => "Salih Aciksoz",
-                         :url => "https://hotseat.io/courses/1173/instructors/47751"
-    },
-    [17] {
-                  :drop_count => 40,
-                 :start_count => 600,
-        :start_count_waitlist => 33,
-                  :start_time => Mon, 03 Jan 2022 09:26:51.677810000 PST -08:00,
-                   :end_count => 592,
-          :end_count_waitlist => 1,
-                    :end_time => Fri, 14 Jan 2022 18:26:19.140794000 PST -08:00,
-                     :section => 37961973,
-                      :course => "LIFESCI 23L: Introduction to Laboratory and Scientific Methodology",
-                  :instructor => "Gaston Pfluegl",
-                         :url => "https://hotseat.io/courses/3078/instructors/94037"
-    },
-    [18] {
-                  :drop_count => 40,
-                 :start_count => 150,
-        :start_count_waitlist => 26,
-                  :start_time => Mon, 03 Jan 2022 11:25:49.004155000 PST -08:00,
-                   :end_count => 136,
-          :end_count_waitlist => 0,
-                    :end_time => Fri, 14 Jan 2022 22:25:43.737890000 PST -08:00,
-                     :section => 37958999,
-                      :course => "SOCIOL 121: Sociology of Religion",
-                  :instructor => "Jason Sexton",
-                         :url => "https://hotseat.io/courses/844060/instructors/1102230"
-    },
-    [19] {
-                  :drop_count => 45,
-                 :start_count => 348,
-        :start_count_waitlist => 2,
-                  :start_time => Mon, 03 Jan 2022 00:26:13.891891000 PST -08:00,
-                   :end_count => 305,
-          :end_count_waitlist => 0,
-                    :end_time => Fri, 14 Jan 2022 17:26:16.856676000 PST -08:00,
-                     :section => 37968822,
-                      :course => "CHEM 153A: Biochemistry: Introduction to Structure, Enzymes, and Metabolism",
-                  :instructor => "Ryan Lannan",
-                         :url => "https://hotseat.io/courses/1836/instructors/1105210"
-    }
+### [20. EC ENGR 201D: Design in Nanoscale Technologies (Puneet Gupta)](https://hotseat.io/courses/850872/instructors/130)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **45 (9 waitlisted)** {{< break >}}
+Ending enrollment: **28 (0 waitlisted)** {{< break >}}
+Total drops: **26**
+
+### [19. LIFESCI 30B: Mathematics for Life Scientists (Jane Shevtsov)](https://hotseat.io/courses/2930/instructors/1240991)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **346 (0 waitlisted)** {{< break >}}
+Ending enrollment: **319 (0 waitlisted)** {{< break >}}
+Total drops: **27**
+
+### [T16. COM SCI 238: Quantum Programming (Jens Palsberg)](https://hotseat.io/courses/1636071/instructors/1103386)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **62 (39 waitlisted)** {{< break >}}
+Ending enrollment: **66 (7 waitlisted)** {{< break >}}
+Total drops: **28**
+
+### [T16. LING 20: Introduction to Linguistic Analysis (Claire Moore-Cantwell)](https://hotseat.io/courses/1882/instructors/82119)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **200 (47 waitlisted)** {{< break >}}
+Ending enrollment: **200 (19 waitlisted)** {{< break >}}
+Total drops: **28**
+
+### [16. SOCIOL 111: Social Networks (Omar Lizardo)](https://hotseat.io/courses/7067/instructors/1104677)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **300 (59 waitlisted)** {{< break >}}
+Ending enrollment: **300 (31 waitlisted)** {{< break >}}
+Total drops: **28**
+
+### [15. PHYSICS 5B: Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics (Justin Lancaster)](https://hotseat.io/courses/3639/instructors/1105304)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **178 (0 waitlisted)** {{< break >}}
+Ending enrollment: **149 (0 waitlisted)** {{< break >}}
+Total drops: **29**
+
+### [T12. JAPAN 80: How Does It Move? Action and Moving Image in Modern Japan (Junko Yamazakiction)](https://hotseat.io/courses/849054/instructors/45158)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **225 (33 waitlisted)** {{< break >}}
+Ending enrollment: **225 (3 waitlisted)** {{< break >}}
+Total drops: **30**
+
+### [T12. AN N EA 15W: Women and Power in Ancient World (Kara Cooney)](https://hotseat.io/courses/6662/instructors/1245917)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **189 (49 waitlisted)** {{< break >}}
+Ending enrollment: **191 (17 waitlisted)** {{< break >}}
+Total drops: **30**
+
+### [T12. ASIA AM 20W: Contemporary Asian American Communities (Lily Anne Welty Tamai)](https://hotseat.io/courses/5651/instructors/1142933)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **120 (29 waitlisted)** {{< break >}}
+Ending enrollment: **119 (0 waitlisted)** {{< break >}}
+Total drops: **30**
+
+### [11. EC ENGR 239AS: Special TopicsAchuta Kadambi in Signals and Systems: Lecture 1 (Achuta Kadambi)](https://hotseat.io/courses/376403/instructors/71272)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **82 (14 waitlisted)** {{< break >}}
+Ending enrollment: **65 (0 waitlisted)** {{< break >}}
+Total drops: **31**
+
+### [10. ETHNMUS M108A: Music of Latin America: Mexico, Central America, and Caribbean Isles (David Fernando Castaneda Jr.)](https://hotseat.io/courses/376984/instructors/1101486)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **178 (0 waitlisted)** {{< break >}}
+Ending enrollment: **146 (0 waitlisted)** {{< break >}}
+Total drops: **32**
+
+### [T8. LING 1: Introduction to Study of Language (Giuseppina Silvestri)](https://hotseat.io/courses/1919/instructors/1100778)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **500 (99 waitlisted)** {{< break >}}
+Ending enrollment: **500 (66 waitlisted)** {{< break >}}
+Total drops: **33**
+
+### [T8. SOCIOL 1: Introductory Sociology (Terri Anderson)](https://hotseat.io/courses/2446/instructors/1043)
+
+{{< figure src="./ec-eng201d.png" alt="Graph of enrollment drops in EC ENGR 201D" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **300 (58 waitlisted)** {{< break >}}
+Ending enrollment: **300 (25 waitlisted)** {{< break >}}
+Total drops: **33**
+
+### [7. PHILOS 7: Introduction to Philosophy of Mind (Gloria Andrada De Gregorio)](https://hotseat.io/courses/48/instructors/1102971)
+
+{{< figure src="./philos7.png" alt="Graph of enrollment drops in PHILOS 7" link="https://hotseat.io/courses/850872/instructors/130" >}}
+
+Starting enrollment: **300 (58 waitlisted)** {{< break >}}
+Ending enrollment: **300 (24 waitlisted)** {{< break >}}
+Total drops: **34**
+
+### [6. CHIN 50: Chinese Civilization (Minchen Li)](https://hotseat.io/courses/124/instructors/180)
+
+{{< figure src="./chin50.png" alt="Graph of enrollment drops in CHIN 50" link="https://hotseat.io/courses/124/instructors/180" >}}
+
+Starting enrollment: **200 (38 waitlisted)** {{< break >}}
+Ending enrollment: **200 (2 waitlisted)** {{< break >}}
+Total drops: **36**
+
+### [5. ARCH&UD 10A: History of Architecture and Urban Design: Prehistory to Mannerism (Melissa Rovner)](https://hotseat.io/courses/6594/instructors/1103391)
+
+{{< figure src="./arch-ud10a.png" alt="Graph of enrollment drops in ARCH&UD 10A" link="https://hotseat.io/courses/6594/instructors/1103391" >}}
+
+Starting enrollment: **240 (15 waitlisted)** {{< break >}}
+Ending enrollment: **217 (0 waitlisted)** {{< break >}}
+Total drops: **38**
+
+### [4. ANTHRO 3: Culture and Society (Salih Aciksoz)](https://hotseat.io/courses/1173/instructors/47751)
+
+{{< figure src="./anthro3.png" alt="Graph of enrollment drops in ANTHRO 3" link="https://hotseat.io/courses/1173/instructors/47751" >}}
+
+Starting enrollment: **306 (53 waitlisted)** {{< break >}}
+Ending enrollment: **308 (12 waitlisted)** {{< break >}}
+Total drops: **39**
+
+### [T2. LIFESCI 23L: Introduction to Laboratory and Scientific Methodology (Gaston Pfluegl)](https://hotseat.io/courses/3078/instructors/94037)
+
+{{< figure src="./lifesci23l.png" alt="Graph of enrollment drops in LIFESCI 23L" link="https://hotseat.io/courses/3078/instructors/94037" >}}
+
+Starting enrollment: **600 (33 waitlisted)** {{< break >}}
+Ending enrollment: **592 (1 waitlisted)** {{< break >}}
+Total drops: **40**
+
+### [T2. SOCIOL 121: Sociology of Religion (Jason Sexton)](https://hotseat.io/courses/844060/instructors/1102230)
+
+{{< figure src="./sociol121.png" alt="Graph of enrollment drops in SOCIOL 121" link="https://hotseat.io/courses/844060/instructors/1102230" >}}
+
+Starting enrollment: **150 (26 waitlisted)** {{< break >}}
+Ending enrollment: **136 (0 waitlisted)** {{< break >}}
+Total drops: **40**
+
+### [1. CHEM 153A: Biochemistry: Introduction to Structure, Enzymes, and Metabolism (Ryan Lannan)](https://hotseat.io/courses/1836/instructors/1105210)
+
+{{< figure src="./chem153a.png" alt="Graph of enrollment drops in CHEM 153A" link="https://hotseat.io/courses/1836/instructors/1105210" >}}
+
+Starting enrollment: **348 (2 waitlisted)** {{< break >}}
+Ending enrollment: **305 (0 waitlisted)** {{< break >}}
+Total drops: **45**
 
 ## Most courses
 
 Didn't have many drops
 
 Hotseat CTA
+
+Note: This information is all based on data from the UCLA Registrar. If any of the professors listed above would like to add an addendum regarding why they feel their class was dropped, please email me at nathan@hotseat.io.
+
+Students: write reviews, sign up for notifications
