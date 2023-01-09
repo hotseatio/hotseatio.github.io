@@ -1,6 +1,6 @@
 ---
 title: "Getting off the Waitlist: Top Dropped UCLA Courses – Winter 2022"
-date: 2023-01-05
+date: 2023-01-08
 author: Nathan Smith
 ---
 
