@@ -12,7 +12,7 @@ With this data, a common question we get from students is "how likely is it that
 
 UCLA students can enroll in and drop all of their courses during the first two weeks of the quarter. After week two, things start to get a little trickier. Impacted classes can only be dropped with a petition, fee, and a note on your transcript. Courses can still be enrolled in, but waitlists are dropped on the Friday of week two and many departments "close" courses after this time to prevent late enrollment.
 
-For this list, we're only interested in drops that free up a seat for someone else. This means focusing on the number of drops during the first two weeks of Winter Quarter. Last year, that was from January 3 to January 14. Here are the 20 most-dropped courses of weeks one and two for the winter 2022 quarter at UCLA.
+For this list, we're only interested in drops that free up a seat for someone else. This means focusing on the number of drops during the first two weeks of Winter Quarter. Last year, that was from January 3 to January 14, 2022. Here are the 20 most-dropped courses of weeks one and two for the winter 2022 quarter at UCLA.
 
 ## Top 20 most dropped courses
 
