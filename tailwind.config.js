@@ -7,6 +7,9 @@ module.exports = {
       colors: {
         gray: colors.neutral,
       },
+      lineHeight: {
+        "extra-none": "0.75",
+      },
     },
   },
   plugins: [require("@tailwindcss/typography")],
