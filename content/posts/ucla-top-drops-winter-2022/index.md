@@ -14,7 +14,7 @@ UCLA students can enroll in and drop all of their courses during the first two w
 
 For this list, we're only interested in drops that free up a seat for someone else. This means focusing on the number of drops during the first two weeks of Winter Quarter. Last year, that was from January 3 to January 14, 2022. Here are the 20 most-dropped courses of weeks one and two for the winter 2022 quarter at UCLA.
 
-## Top 20 most dropped courses
+## Top 20 most-dropped classes
 
 ### [20. EC ENGR 201D: Design in Nanoscale Technologies (Puneet Gupta)](https://hotseat.io/courses/850872/instructors/130)
 
@@ -178,7 +178,7 @@ Total drops: **45**
 
 ## Summary
 
-All of this data is based on enrollment and waitlist numbers obtained directly from the [UCLA Registrar's website](https://registrar.ucla.edu). Took one of these courses and dropped it? Tell us about it by writing a review at [Hotseat](https://hotseat.io)!
+All of this data is based on enrollment and waitlist numbers obtained directly from the [UCLA Registrar's website](https://registrar.ucla.edu) from January 3-14, 2022. Took one of these courses and dropped it? Tell us about it by writing a review at [Hotseat](https://hotseat.io)!
 
 If any of the professors listed above would like to add an addendum regarding why they feel their class was dropped, please email me at [drops@hotseat.io](mailto:drops@hotseat.io).
 
